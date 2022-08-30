@@ -1,0 +1,12 @@
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\BLL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\BLL.pdb
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\DAL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Release\DAL.pdb
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Release\BLL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Release\BLL.pdb

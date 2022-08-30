@@ -1,0 +1,10 @@
+D:\IftekharUddinAhmed_311545\SMS\DAL\bin\Release\DAL.dll
+D:\IftekharUddinAhmed_311545\SMS\DAL\bin\Release\DAL.pdb
+D:\IftekharUddinAhmed_311545\SMS\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\IftekharUddinAhmed_311545\SMS\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\IftekharUddinAhmed_311545\SMS\DAL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\IftekharUddinAhmed_311545\SMS\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\IftekharUddinAhmed_311545\SMS\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\IftekharUddinAhmed_311545\SMS\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\IftekharUddinAhmed_311545\SMS\DAL\obj\Release\DAL.dll
+D:\IftekharUddinAhmed_311545\SMS\DAL\obj\Release\DAL.pdb

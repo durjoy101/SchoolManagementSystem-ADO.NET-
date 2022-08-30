@@ -1,0 +1,36 @@
+D:\Class Evening\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Evening\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Evening\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\BLL.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\BLL.pdb
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\DAL.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\bin\Debug\DAL.pdb
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\obj\Debug\BLL.dll
+D:\durjoy\SMS-day-31 by sir (sub category, site port , dynamic slider)\SMS\BLL\obj\Debug\BLL.pdb
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\BLL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\BLL.pdb
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\DAL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\bin\Debug\DAL.pdb
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Debug\BLL.dll
+D:\IftekharUddinAhmed_311545\SMS\BLL\obj\Debug\BLL.pdb
